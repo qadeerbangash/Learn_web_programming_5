@@ -1,0 +1,70 @@
+@font-face{
+    font-family: 'DancingScript-Medium';
+    src: url('DancingScript-Medium.ttf');
+}
+@font-face{
+    font-family: 'Bangers';
+    src: url('Bangers-Regular.ttf');
+}
+/* *{
+    font-family: DancingScript-Medium;
+} */
+ h1{
+    color: rgb(255, 78, 123);
+    font-family: cursive;
+    font-size: 72px;
+    text-decoration: overline;
+}
+h2{
+    color: rgb(255, 10, 123);
+    /* font-family: initial; */
+    font-size: 5em;
+}
+h3{
+    color: rgb(255, 10, 123);
+    font-family: initial;
+    font-size: 30pt;
+    text-align: right;
+} 
+h4{
+    color: rgb(200, 110, 223);
+    background-color: khaki;
+    font-family: Bangers;
+    font-size: 40pt;
+    text-align: center;
+} 
+h5{
+    color: rgb(200, 10, 223);
+    background-color: khaki;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    letter-spacing: 2em;
+}
+
+/* p{
+    color: lawngreen;
+    background-color: red;
+    font-family: bangers;
+    text-transform: uppercase;
+} */
+.para{
+    text-indent: 10%;
+    text-decoration:none ;
+    word-spacing: normal;
+}
+p{
+    color: lawngreen;
+    background-color: red;
+    /* font-family: bangers; */
+    text-transform: capitalize;
+  
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-decoration: underline;
+    line-height: 2em;
+    word-spacing: 1.4em;
+    
+}
